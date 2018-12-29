@@ -1,0 +1,19 @@
+i.icon {
+    font-size: 2em;
+}
+
+i.angle.right.icon {
+    font-size: 1em;
+}
+
+i.right.chevron.icon {
+    font-size: 1em;
+}
+
+.container.main {
+    margin-top: 7em;
+}
+
+#delete {
+    display: inline;
+}
